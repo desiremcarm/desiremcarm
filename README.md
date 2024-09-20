@@ -12,6 +12,10 @@
 }
 ```
 
+### ⑉ Let's talk! ✉️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desire-m-carmona/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](work@desiremcarmona.com)
+
 ### ⑉ Stack 📚
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,9 +33,12 @@
 - [X] Created most of the documentation still being used at all my previous jobs
 - [X] Coordinated many juniors at all my previous jobs
 
-### ⑉ Let's talk! ✉️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desire-m-carmona/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](work@desiremcarmona.com)
+### ⑉ Bonus - Hobbies! 😊
+- 📸 Photography
+- 🏋️‍♀️ Exercise
+- 🎮 Videogames
+- ✒️ Writing
+- 📚 Reading
 
 
 <!---
