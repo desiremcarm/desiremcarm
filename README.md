@@ -32,6 +32,7 @@
 - [X] Worked 2+ years in videogames and released my first AAA mobile game
 - [X] Created most of the documentation still being used at all my previous jobs
 - [X] Coordinated many juniors at all my previous jobs
+- [X] Improved many workflows and processes at my previous jobs
 
 ### ⑉ Bonus - Hobbies! 😊
 - 📸 Photography
