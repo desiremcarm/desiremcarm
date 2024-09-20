@@ -22,7 +22,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⑉ Achievements
-
 - [X] Got my first tech job at 2017 as a self-taught person
 - [X] Became a LinkedIn Instructor at 2020
 - [X] Worked in private projects for hospitals, airports, eCommerces and the military
