@@ -25,7 +25,7 @@
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Last guides
+### ⑉ Last guides 📖
 
 📖 [Emergency Kit for GitHub](https://candied-stinger-a1d.notion.site/Kit-emergencia-Github-10b1b781255280b79221eccfb432964e?pvs=4)
 
