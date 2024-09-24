@@ -27,7 +27,7 @@
 
 ### ⑉ Last guides 📖
 
-📖 [Emergency Kit for GitHub](https://candied-stinger-a1d.notion.site/Kit-emergencia-Github-10b1b781255280b79221eccfb432964e?pvs=4)
+📖 [Emergency Kit for GitHub](https://candied-stinger-a1d.notion.site/Kit-emergencia-Github-10b1b781255280b79221eccfb432964e?pvs=4) ESP
 
 ### ⑉ Achievements
 - [X] Got my first tech job at 2017 as a self-taught person
