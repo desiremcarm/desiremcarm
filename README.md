@@ -30,6 +30,8 @@
 
 📖 [Const, let and var usage in JavaScript](https://candied-stinger-a1d.notion.site/Const-let-y-var-10c1b781255280e39fb8fe2c0fa5ce5e?pvs=4) ESP
 
+📖 [Pure and impure functions in JavaScript](https://candied-stinger-a1d.notion.site/Funciones-puras-e-impuras-10c1b781255280ecb376e5dc7d641853?pvs=4) ESP
+
 ### ⑉ Achievements
 - [X] Got my first tech job at 2017 as a self-taught person
 - [X] Became a LinkedIn Instructor at 2020
