@@ -28,6 +28,8 @@
 
 📖 [Emergency Kit for GitHub](https://candied-stinger-a1d.notion.site/Kit-emergencia-Github-10b1b781255280b79221eccfb432964e?pvs=4) ESP
 
+📖 [Useful array methods in JS](https://candied-stinger-a1d.notion.site/M-todos-de-arrays-en-JS-10c1b781255280678ccfecffcf819168?pvs=4) ESP
+
 📖 [Const, let and var usage in JavaScript](https://candied-stinger-a1d.notion.site/Const-let-y-var-10c1b781255280e39fb8fe2c0fa5ce5e?pvs=4) ESP
 
 📖 [Pure and impure functions in JavaScript](https://candied-stinger-a1d.notion.site/Funciones-puras-e-impuras-10c1b781255280ecb376e5dc7d641853?pvs=4) ESP
