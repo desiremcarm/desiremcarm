@@ -35,7 +35,7 @@
 📖 [Pure and impure functions in JavaScript](https://candied-stinger-a1d.notion.site/Funciones-puras-e-impuras-10c1b781255280ecb376e5dc7d641853?pvs=4) ESP
 
 ### ⑉ Achievements
-- [X] Got my first tech job at 2017 as a self-taught person
+- [X] Got my first tech job in 2017 as a self-taught person
 - [X] Became a LinkedIn Instructor at 2020
 - [X] Worked in private projects for hospitals, airports, eCommerces and the military
 - [X] Worked 2+ years in videogames and released my first AAA mobile game
