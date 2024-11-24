@@ -6,7 +6,7 @@
 ```
 {
   "name": "Desire",
-  "experience": "UXUI Designer, Frontend Developer",
+  "experience": "Frontend Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
   "status": "Looking for my new job!"
 }
