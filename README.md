@@ -8,7 +8,7 @@
   "name": "Desire",
   "experience": "Software Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
-  "status": "Looking for my new job!"
+  "status": "Looking for my next job!"
 }
 ```
 
