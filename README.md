@@ -27,17 +27,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-### ⑉ Last guides 📖
-
-📖 [Emergency Kit for GitHub](https://candied-stinger-a1d.notion.site/Kit-emergencia-Github-10b1b781255280b79221eccfb432964e?pvs=4) ESP
-
-📖 [Useful array methods in JS](https://candied-stinger-a1d.notion.site/M-todos-de-arrays-en-JS-10c1b781255280678ccfecffcf819168?pvs=4) ESP
-
-📖 [Const, let and var usage in JavaScript](https://candied-stinger-a1d.notion.site/Const-let-y-var-10c1b781255280e39fb8fe2c0fa5ce5e?pvs=4) ESP
-
-📖 [Pure and impure functions in JavaScript](https://candied-stinger-a1d.notion.site/Funciones-puras-e-impuras-10c1b781255280ecb376e5dc7d641853?pvs=4) ESP
-
 ### ⑉ Achievements
 - [X] Got my first tech job in 2017 as a self-taught person
 - [X] Became a LinkedIn Instructor at 2020
