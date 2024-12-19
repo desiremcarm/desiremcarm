@@ -6,7 +6,7 @@
 ```
 {
   "name": "Desire",
-  "experience": "Software Developer",
+  "experience": "Python Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
   "status": "Looking for my next job!"
 }
