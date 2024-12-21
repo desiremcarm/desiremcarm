@@ -8,10 +8,11 @@
   "name": "Desire",
   "experience": "Python Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
-  "status": "Looking for my next job!",
-  "blog": [Check my personal blog!](https://desiremcarm.github.io)
+  "status": "Looking for my next job!"
 }
 ```
+
+💖👋🏻 [Check my personal blog!](https://desiremcarm.github.io)
 
 ### ⑉ Let's talk! ✉️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desire-m-carmona/)
