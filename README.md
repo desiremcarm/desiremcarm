@@ -8,7 +8,8 @@
   "name": "Desire",
   "experience": "Python Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
-  "status": "Looking for my next job!"
+  "status": "Looking for my next job!",
+  "blog": [Check my personal blog!](https://desiremcarm.github.io)
 }
 ```
 
