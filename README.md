@@ -6,9 +6,9 @@
 ```
 {
   "name": "Desire",
-  "experience": "Python Developer",
+  "experience": "Developer",
   "previousJob": "Developing the UI of Call of Duty Warzone Mobile",
-  "status": "Looking for my next job!"
+  "status": "Looking for my next role in Cybersecurity"
 }
 ```
 
@@ -30,8 +30,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ⑉ Achievements
-- [X] Got my first tech job in 2017 as a self-taught person
-- [X] Became a LinkedIn Instructor at 2020
+- [X] Got my first tech job in 2017 as a self-taught
+- [X] Became a LinkedIn Instructor in 2020
 - [X] Worked in private projects for hospitals, airports, eCommerces and the military
 - [X] Worked 2+ years in videogames and released my first AAA mobile game
 - [X] Created most of the documentation still being used at all my previous jobs
