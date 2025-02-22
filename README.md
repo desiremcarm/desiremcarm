@@ -6,7 +6,7 @@
 ``` javascript
 {
   "name": "Desire",
-  "experience": "Software developer with over 7 years of experiencia",
+  "experience": "Software developer with over 7 years of experience",
   "previousJob": "Developing Call of Duty Warzone Mobile",
   "status": "Looking for my next role in Cybersecurity"
 }
